@@ -271,7 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Ronald Mera** - [@rmera1026](https://github.com/rmera1026)
+**Ronald Mera** - rmera1026@gmail.com
 
 Project Link: [https://github.com/rmera1026/Bluetooth_Controlled_Lamp](https://github.com/rmera1026/Bluetooth_Controlled_Lamp)
 
